@@ -47,8 +47,9 @@ Here are some of the technologies that I've worked with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MARWA556&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MARWA556&theme=radical&hide_border=false&border_radius=10" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=MARWA556&theme=radical&hide_border=false&border_radius=10" height="180"/>
 </p>
+
 
 ---
 

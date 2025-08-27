@@ -56,7 +56,7 @@ Here are some of the technologies that I've worked with:
 ## 🔥 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARWA556&langs_count=10&layout=compact&theme=radical&hide_border=false&border_radius=10" height="200"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARWA556&langs_count=10&layout=compact&theme=radical&hide_border=false&border_radius=10" height="200"/>
 </p>
 
 ---

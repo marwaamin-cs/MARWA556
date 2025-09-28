@@ -1,4 +1,3 @@
-
 # 👋 Hello, I'm Marwa Amin
 ---
 
@@ -7,7 +6,7 @@
 - 💡 Experienced in **routing protocols (OSPF, EIGRP, RIP), wireless networks, and network automation**  
 - 🛠 Skilled in **Cisco Packet Tracer, Wireshark, and Linux (Kali, Ubuntu)**  
 - 🤝 Open to collaborating on **networking, security, and frontend web projects**  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/marwa-amin/) | [GitHub](https://github.com/your-username)**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/marwa-amin/) | [GitHub](https://github.com/marwaamin-cs)**
 
 ---
 
@@ -46,8 +45,8 @@ Here are some of the technologies that I've worked with:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MARWA556&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=MARWA556&theme=radical&hide_border=false&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marwaamin-cs&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=marwaamin-cs&theme=radical&hide_border=false&border_radius=10" height="180"/>
 </p>
 
 
@@ -56,7 +55,7 @@ Here are some of the technologies that I've worked with:
 ## 🔥 Most Used Languages  
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARWA556&langs_count=10&layout=compact&theme=radical&hide_border=false&border_radius=10" height="200"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaamin-cs&langs_count=10&layout=compact&theme=radical&hide_border=false&border_radius=10" height="200"/>
 </p>
 
 ---
